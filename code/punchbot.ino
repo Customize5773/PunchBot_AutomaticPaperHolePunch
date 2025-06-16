@@ -190,7 +190,7 @@ void updateDisplay() {
   display.setTextSize(1);
   display.setTextColor(WHITE);
   display.setCursor(0, 0);
-  display.print("PunchBot v2.0");
+  display.print("PunchBot v1.0");
   
   // Current preset
   display.setCursor(0, 15);
