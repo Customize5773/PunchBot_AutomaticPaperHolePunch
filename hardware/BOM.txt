@@ -1,0 +1,47 @@
+PunchBot - Bill of Materials
+============================
+
+Electronics:
+------------
+1.  Arduino Uno Rev3 (or compatible)         x1
+2.  A4988 Stepper Motor Driver               x1
+3.  NEMA 17 Stepper Motor (12V, 1.2A)        x1
+4.  Micro Servo (SG90 or MG90S)              x1
+5.  SSD1306 I2C OLED Display (128x64)        x1
+6.  IR Paper Detection Sensor (FC-51)        x1
+7.  Tactile Push Buttons (6x6mm)             x3
+8.  Breadboard (400 points)                  x1
+9.  Jumper Wire Kit (M-M, M-F, F-F)          x1 set
+10. 12V 2A DC Power Supply                   x1
+11. DC Power Jack Adapter                    x1
+12. 100µF Capacitor (for stepper power)      x1
+
+Mechanical:
+-----------
+1.  Linear Rail (MGN12, 300mm)               x1
+2.  Rubber Feed Rollers (20mm dia)           x2
+3.  GT2 Timing Belt (6mm width)              x1m
+4.  GT2 Pulley (20 teeth)                    x1
+5.  Ball Bearings (625ZZ, 5x16x5mm)          x4
+6.  Aluminum Extrusion (2020, 300mm)         x2
+7.  M3 Screws and Nuts (various lengths)     x30
+8.  Punch Mechanism (commercial or custom)   x1
+
+3D Printed Parts:
+-----------------
+1.  Paper Tray.stl                           x1
+2.  Motor Mount.stl                          x1
+3.  Punch Arm.stl                            x1
+4.  Roller Holder.stl                        x2
+5.  Electronics Case.stl                     x1
+6.  Button Panel.stl                         x1
+
+Optional Upgrades:
+------------------
+1.  Limit Switches (Endstops)                x2
+2.  Cooling Fan (40x40mm)                    x1
+3.  Heatsink for A4988 Driver                x1
+4.  DIN Rail Power Supply Mount              x1
+5.  Cable Management Clips                   x10
+
+Total Estimated Cost: $85-$120 USD
